@@ -1,6 +1,6 @@
 # ResiTrack
 
-Team’s central guide and reference repository. It contains code snippets, examples, and mini-guides to help the team implement features each module quickly and consistently.
+Team’s central guide and reference repository. It contains codes and mini-guides to help the team implement features each module quickly and consistently.
 
 ## Contents
 
